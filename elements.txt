@@ -1,0 +1,48 @@
+Dychy;835
+Oblečenie;13
+Kolobežky;174
+Nábytok;220
+Beh;20
+Vtáky;10
+Cyklistické doplnky;404
+Smart;22
+Zvuková technika;364
+Merch;267
+Štúdio;450
+Rybárske vybavenie;10
+Hlodavce;15
+Foto & Video;31
+Mikrofóny;81
+Auto-moto;5091
+Outdoorová obuv;12
+DJ;221
+Hokej;77
+Kozmetika a zdravie;428
+Svetlá;160
+Filmy, knihy, hry;5155
+Hobby;31545
+Audio;64
+Gaming;32
+Oblečenie a móda;23732
+Elektronika;14393
+Bivaky / Outdoor vybavenie;4
+Dom a záhrada;646
+Fitness;223
+Vodné športy;15
+Počítače a príslušenstvo;2
+Optika;42
+Stavebniny;371
+Detský tovar;4495
+Hi-Fi Systémy;7
+Šport;31190
+Jedlo a nápoje;6
+Sláčiky;171
+Vybavenie a príslušenstvo;5
+Biela technika;188
+Oblečenie / Prilby / Topánky;21
+Príslušenstvo;167
+Gitary;57
+Bicie;1912
+Návnady / Nástrahy / Kŕmenie;39
+Lyžovanie;12
+Tradičné;16
